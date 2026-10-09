@@ -67,6 +67,23 @@ devops-observability-lab/
 └── .gitignore
 ```
 
+## Demo Screenshots
+
+The images below show a small local test with simulated traffic, used only to validate the dashboard, alerting and tracing setup.
+
+### Grafana Dashboard
+
+![Grafana Dashboard](docs/images/grafana-dashboard.png)
+
+### HTTP 500 Alert
+
+![HTTP 500 Alert](docs/images/http-500-alert.png)
+
+### Distributed Trace
+
+![Grafana Tempo Trace](docs/images/tempo-trace.png)
+
+
 ## Purpose
 
 This repository is a study project focused on building practical familiarity with observability and DevOps fundamentals.
